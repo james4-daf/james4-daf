@@ -24,17 +24,13 @@
 
 ## 🚀 Currently working on 
 
+* **[FlashWeb](https://github.com/james4-daf/flashDeck)**
+
+  * Spaced-repetition flashcard app for web developers.
+
 * **[Stock Market Tracker](https://github.com/james4-daf/stockMarketApi-next-firebase)**
 
   * Real-time financial data dashboard built with Next.js, TypeScript & Firebase.
-
-* **[Notes App](https://github.com/james4-daf/coding-notes-firebase-app)**
-
-  * Markdown-based note-taking app with real-time sync and offline support.
-
-* **[Todo MacOS](https://github.com/james4-daf/Todo-MacPWA)**
-
-  * Cross-platform PWA with a native macOS-style interface and local storage.
 
 ## 📫 Let’s Connect
 
