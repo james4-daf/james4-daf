@@ -1,17 +1,27 @@
 # Hi there, I’m Daf 👋
 
-**Front-End Software Engineer** specializing in React, Next.js & TypeScript with 4 years of professional experience at Elsevier.
+**Front-End Software Engineer** specializing in React, Next.js & TypeScript with 5 years of professional experience at Elsevier.
 
-<p align="center">
+<!-- <p align="center">
   <a href="#contact">
     <img
       alt="Open to Work"
       src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=briefcase"
     />
   </a>
-</p>
+</p> -->
 
 ## 💼 Professional Experience
+
+### APX Data — Ottawa, Canada  
+**Software Engineer** _(August 2025 – Present)_
+
+- Contribute across the full stack to a public safety platform, building and maintaining features used by emergency service organizations.
+- Replaced a third-party dashboard vendor with a custom internal dashboard, eliminating $10K/year in licensing costs while improving flexibility and control.
+- Migrated and restored legacy firehouse backup data into Azure SQL, enabling customers to query historical records through the modern web application.
+
+**Technologies:** Node.js, Express, CouchDB, Azure VM's, Vue and React
+
 
 ### ELSEVIER LIMITED — London, England  
 **Software Engineer III** _(Sep 2020 – Dec 2024)_
